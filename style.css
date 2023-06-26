@@ -35,3 +35,13 @@ button a {
 button a:hover {
     color: black;
 }
+@media (max-width: 576px) {
+  .nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+}
