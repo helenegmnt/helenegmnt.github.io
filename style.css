@@ -22,3 +22,16 @@ a {color:cornflowerblue;
     color:black;
     background-color: #ffc107;
   }
+
+
+ .img-notion{
+    width:1.5em;
+ }
+
+button a {
+    color: black;
+}
+
+button a:hover {
+    color: black;
+}
